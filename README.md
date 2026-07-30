@@ -136,7 +136,7 @@ QuickBite-Crisis-Impact-Analysis
 
 
 
-!\[Executive Overview](Screenshots/Executive Overview.png)
+!\[Executive Overview](Screenshots/executive-overview.png)
 
 
 
@@ -144,7 +144,7 @@ QuickBite-Crisis-Impact-Analysis
 
 
 
-!\[Customer Insights](Screenshots/City \& Customer Impact.png)
+!\[Customer Insights](Screenshots/customer-insights.png)
 
 
 
@@ -152,7 +152,7 @@ QuickBite-Crisis-Impact-Analysis
 
 
 
-!\[Operations Analysis](Screenshots/Sentiment \& Strategy.png)
+!\[Operations Analysis](Screenshots/operations-analysis.png)
 
 ⭐ If you found this project interesting, feel free to star the repository!
 
