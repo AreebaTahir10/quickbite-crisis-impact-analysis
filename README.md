@@ -127,8 +127,14 @@ QuickBite-Crisis-Impact-Analysis
 
 
 \---
+
+### Executive Overview
 ![Executive Overview](./Screenshots/Executive%20Overview.png)
+
+### Customer Insights
 ![City & Customer Impact](./Screenshots/City%20%26%20Customer%20Impact.png)
+
+### Operations Analysis
 ![Sentiment & Strategy](./Screenshots/Sentiment%20%26%20Strategy.png)
 
 
