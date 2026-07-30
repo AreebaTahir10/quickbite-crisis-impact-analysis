@@ -128,33 +128,17 @@ QuickBite-Crisis-Impact-Analysis
 
 \---
 
-\## 📸 Dashboard Preview
+### Executive Overview
 
+![Executive Overview](./Screenshots/executive-overview.png)
 
+### Customer Insights
 
-\### Executive Overview
+![Customer Insights](./Screenshots/customer-insights.png)
 
+### Operations Analysis
 
-
-!\[Executive Overview](Screenshots/executive-overview.png)
-
-
-
-\### Customer Insights
-
-
-
-!\[Customer Insights](Screenshots/customer-insights.png)
-
-
-
-\### Operations Analysis
-
-
-
-!\[Operations Analysis](Screenshots/operations-analysis.png)
-
-⭐ If you found this project interesting, feel free to star the repository!
+![Operations Analysis](./Screenshots/operations-analysis.png)
 
 
 
